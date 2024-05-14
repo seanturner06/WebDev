@@ -1,0 +1,68 @@
+body{
+    background-color: white;   
+    color: black;  
+}
+header{
+    font-size: 50px;
+    text-align:center; 
+    background-color:black; 
+    color:aliceblue; 
+    
+}
+h1{
+    font-size:500%; 
+    background-color: black;
+    color:white; 
+}
+ol{
+    margin-left:375px;
+    font-size:45px;  
+    font-weight: 300; 
+}
+ul{
+    list-style:none; 
+    margin:0; 
+    padding:0; 
+    display:flex; 
+    color:white; 
+}
+li{
+    margin-right: 10px; 
+    padding: 5px; 
+}
+a:visited{
+    color:white; 
+}
+a:link{
+    color:white;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color:red; 
+    background-size: large; 
+}
+iframe{
+    margin-left:-3%; 
+}
+.movie-genre{
+    font-size:medium;  
+    background-color:black; 
+    color:white;
+    width:fit-content;  
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.menu{
+    text-align:right; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    width:fit-content;
+    margin-inline-start: 81%;
+    margin-top: 20px; 
+    margin-bottom: -2%;
+    background-color:black;
+    color:white; 
+    border-radius: 5px;
+    font-size:medium;  
+}
+
